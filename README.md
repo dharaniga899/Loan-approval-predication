@@ -116,25 +116,25 @@ The Random Forest model achieved excellent predictive performance using the foll
 ---
 
 ### 📈 Feature Correlation Heatmap
-<img width="850" alt="correlation_heatmap" src="<img width="992" height="595" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/39b7d760-844e-4808-b1ae-93c0a3e69028" />
+<img width="992" height="595" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/39b7d760-844e-4808-b1ae-93c0a3e69028" />
 " />
 
 ---
 
 ### ✅ Confusion Matrix
-<img width="850" alt="confusion_matrix" src="<img width="800" height="623" alt="confusion_matrix" src="https://github.com/user-attachments/assets/010737e1-031e-4f1d-acbe-0efdf508e6dc" />
+<img width="800" height="623" alt="confusion_matrix" src="https://github.com/user-attachments/assets/010737e1-031e-4f1d-acbe-0efdf508e6dc" />
 " />
 
 ---
 
 ### 🌟 Feature Importance (Random Forest)
-<img width="850" alt="feature_importance" src="<img width="948" height="646" alt="feature_importance" src="https://github.com/user-attachments/assets/6f20524d-5c61-4a3a-a8e9-4ce273564c93" />
+<img width="948" height="646" alt="feature_importance" src="https://github.com/user-attachments/assets/6f20524d-5c61-4a3a-a8e9-4ce273564c93" />
 " />
 
 ---
 
 ### 📉 ROC Curve (AUC = 0.9458)
-<img width="850" alt="roc_curve" src="<img width="815" height="500" alt="roc_curve" src="https://github.com/user-attachments/assets/94f74745-48e2-4242-8f41-c7a9fd47e8e5" />
+<img width="815" height="500" alt="roc_curve" src="https://github.com/user-attachments/assets/94f74745-48e2-4242-8f41-c7a9fd47e8e5" />
 " />
 
 ---

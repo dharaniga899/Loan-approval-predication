@@ -213,3 +213,7 @@ Aspiring AI & Machine Learning Developer passionate about building practical Mac
 If you found this project helpful, please consider giving it a **⭐ Star** on GitHub.
 
 It helps others discover the project and motivates further development.
+
+<p align="center">
+  <img src="images/confusion_matrix.png" width="850">
+</p>

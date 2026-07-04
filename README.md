@@ -107,68 +107,53 @@ The Random Forest model achieved excellent predictive performance using the foll
 
 ---
 
-# 📷 Project Output
+## 📷 Project Output
 
-## 📊 Loan Approval Distribution
+### 📊 Loan Approval Distribution
 
 <p align="center">
-  <img src="images/loan_approval_distribution.png" width="850">
+  <img src="images/loan_approval_distribution.png" alt="Loan Approval Distribution" width="750">
 </p>
-
-The dataset contains both approved and rejected loan applications, providing sufficient data for training and evaluation.
 
 ---
 
-## 🔥 Feature Correlation Heatmap
+### 📈 Feature Correlation Heatmap
 
 <p align="center">
-  <img src="images/correlation_heatmap.png" width="850">
+  <img src="images/correlation_heatmap.png" alt="Feature Correlation Heatmap" width="750">
 </p>
-
-The heatmap visualizes the correlation between numerical features and the target variable, helping identify the most influential predictors.
 
 ---
 
-## 📈 Feature Distributions
+### 📊 Feature Distributions
 
 <p align="center">
-  <img src="images/feature_distributions.png" width="850">
+  <img src="images/feature_distributions.png" alt="Feature Distributions" width="750">
 </p>
-
-Histograms display the distribution of important numerical features including income, credit score, loan amount, and years employed.
 
 ---
 
-## 🌟 Feature Importance (Random Forest)
+### 🌟 Feature Importance (Random Forest)
 
 <p align="center">
-  <img src="images/feature_importance.png" width="850">
+  <img src="images/feature_importance.png" alt="Feature Importance" width="750">
 </p>
-
-Random Forest identifies **Credit Score** as the most influential feature for predicting loan approval, followed by Income and Loan Amount.
 
 ---
 
-## ✅ Confusion Matrix
+### ✅ Confusion Matrix
 
 <p align="center">
-  <img src="images/confusion_matrix.png" width="850">
+  <img src="images/confusion_matrix.png" alt="Confusion Matrix" width="750">
 </p>
-
-The confusion matrix summarizes the model's predictions, showing high classification accuracy with very few incorrect predictions.
 
 ---
 
-## 📉 ROC Curve
+### 📉 ROC Curve (AUC = 0.9458)
 
 <p align="center">
-  <img src="images/roc_curve.png" width="850">
+  <img src="images/roc_curve.png" alt="ROC Curve" width="750">
 </p>
-
-The ROC Curve demonstrates excellent classification performance with an **AUC Score of 0.9458**, indicating strong discrimination between approved and rejected loan applications.
-
----
-
 ## 📁 Project Structure
 
 ```

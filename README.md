@@ -188,7 +188,7 @@ Open the Jupyter Notebook or Google Colab and run all cells sequentially.
 
 ## 👨‍💻 Author
 
-### **Dharani Rajesh**
+### **Dharaniga V.R**
 Aspiring AI & Machine Learning Developer passionate about building practical Machine Learning solutions that solve real-world problems.
 
 ---

@@ -111,49 +111,37 @@ The Random Forest model achieved excellent predictive performance using the foll
 
 ### 📊 Loan Approval Distribution
 
-<p align="center">
-  <img src="images/loan_approval_distribution.png" alt="Loan Approval Distribution" width="750">
-</p>
+ 
 
 ---
 
 ### 📈 Feature Correlation Heatmap
 
-<p align="center">
-  <img src="images/correlation_heatmap.png" alt="Feature Correlation Heatmap" width="750">
-</p>
+ 
 
 ---
 
-### 📊 Feature Distributions
-
-<p align="center">
-  <img src="images/feature_distributions.png" alt="Feature Distributions" width="750">
-</p>
+### 📊 confusion matrix
+ 
+ 
 
 ---
 
 ### 🌟 Feature Importance (Random Forest)
 
-<p align="center">
-  <img src="images/feature_importance.png" alt="Feature Importance" width="750">
-</p>
+ 
 
 ---
 
-### ✅ Confusion Matrix
+### ✅ Confusion Matrix 
 
-<p align="center">
-  <img src="images/confusion_matrix.png" alt="Confusion Matrix" width="750">
-</p>
 
 ---
 
 ### 📉 ROC Curve (AUC = 0.9458)
 
-<p align="center">
-  <img src="images/roc_curve.png" alt="ROC Curve" width="750">
-</p>
+ 
+
 ## 📁 Project Structure
 
 ```
@@ -212,7 +200,7 @@ Open the Jupyter Notebook or Google Colab and run all cells sequentially.
 
 ---
 
-## 👨‍💻 Author
+## 👨💻 Author
 
 ### **Dharani Rajesh**
 

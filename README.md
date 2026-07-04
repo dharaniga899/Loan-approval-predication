@@ -110,7 +110,7 @@ The Random Forest model achieved excellent predictive performance using the foll
 ## 📷 Project Output
 
 ### 📊 Loan Approval Distribution
-<img width="850" alt="loan_approval_distribution" src="<img width="755" height="546" alt="loan_approval_distribution" src="https://github.com/user-attachments/assets/a5298bcd-0609-4e62-b6e2-102d3cb8a967" />
+<img width="755" height="546" alt="loan_approval_distribution" src="https://github.com/user-attachments/assets/a5298bcd-0609-4e62-b6e2-102d3cb8a967" />
 " />
 
 ---

@@ -110,37 +110,29 @@ The Random Forest model achieved excellent predictive performance using the foll
 ## 📷 Project Output
 
 ### 📊 Loan Approval Distribution
-
- 
+<img width="850" alt="loan_approval_distribution" src="PASTE_YOUR_LINK_HERE_1" />
 
 ---
 
 ### 📈 Feature Correlation Heatmap
-
- 
+<img width="850" alt="correlation_heatmap" src="PASTE_YOUR_LINK_HERE_2" />
 
 ---
 
-### 📊 confusion matrix
- 
- 
+### ✅ Confusion Matrix
+<img width="850" alt="confusion_matrix" src="PASTE_YOUR_LINK_HERE_3" />
 
 ---
 
 ### 🌟 Feature Importance (Random Forest)
-
- 
-
----
-
-### ✅ Confusion Matrix 
-
+<img width="850" alt="feature_importance" src="PASTE_YOUR_LINK_HERE_4" />
 
 ---
 
 ### 📉 ROC Curve (AUC = 0.9458)
+<img width="850" alt="roc_curve" src="PASTE_YOUR_LINK_HERE_5" />
 
- 
+---
 
 ## 📁 Project Structure
 
@@ -148,16 +140,9 @@ The Random Forest model achieved excellent predictive performance using the foll
 Loan-Approval-Prediction/
 │
 ├── Loan_approval_prediction.ipynb
-├── loan_approval.csv
+├── loan approval datasets.csv
 ├── README.md
-├── .gitignore
-└── images/
-    ├── loan_approval_distribution.png
-    ├── correlation_heatmap.png
-    ├── feature_distributions.png
-    ├── feature_importance.png
-    ├── confusion_matrix.png
-    └── roc_curve.png
+└── .gitignore
 ```
 
 ---
@@ -165,25 +150,21 @@ Loan-Approval-Prediction/
 ## ▶️ Getting Started
 
 ### Clone the repository
-
 ```bash
 git clone https://github.com/your-username/Loan-Approval-Prediction.git
 ```
 
 ### Navigate to the project
-
 ```bash
 cd Loan-Approval-Prediction
 ```
 
 ### Install the required libraries
-
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 ```
 
 ### Run the project
-
 Open the Jupyter Notebook or Google Colab and run all cells sequentially.
 
 ---
@@ -200,10 +181,9 @@ Open the Jupyter Notebook or Google Colab and run all cells sequentially.
 
 ---
 
-## 👨💻 Author
+## 👨‍💻 Author
 
 ### **Dharani Rajesh**
-
 Aspiring AI & Machine Learning Developer passionate about building practical Machine Learning solutions that solve real-world problems.
 
 ---
@@ -211,9 +191,4 @@ Aspiring AI & Machine Learning Developer passionate about building practical Mac
 ## ⭐ Support
 
 If you found this project helpful, please consider giving it a **⭐ Star** on GitHub.
-
 It helps others discover the project and motivates further development.
-
-<p align="center">
-  <img src="images/confusion_matrix.png" width="850">
-</p>

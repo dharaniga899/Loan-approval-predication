@@ -1,5 +1,5 @@
 gradio
 pandas<3
-scikit-learn
 numpy
-joblib
+scikit-learn
+imbalanced-learn

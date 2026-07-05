@@ -1,4 +1,3 @@
-<img width="1917" height="822" alt="Application preview" src="https://github.com/user-attachments/assets/357653c8-f650-403c-8a28-708210fed473" />
 # 🏦 Loan Approval Prediction using Machine Learning
 
 A Machine Learning application that predicts whether a loan application is likely to be **Approved** or **Rejected** based on applicant information. The project demonstrates the complete machine learning workflow, including data preprocessing, feature analysis, handling class imbalance using **SMOTE**, training multiple classification models, model evaluation, and selecting the best-performing model.

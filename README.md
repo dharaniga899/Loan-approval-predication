@@ -158,12 +158,12 @@ The deployed Gradio app lets users adjust applicant details with sliders and ins
 ```
 Loan-Approval-Prediction/
 │
-├── Loan_approval_prediction.ipynb   # Full analysis, training & evaluation notebook
-├── app.py                           # Gradio app used for Hugging Face Spaces deployment
-├── requirements.txt                 # Python dependencies for deployment
-├── loan approval datasets.csv       # Dataset
-├── README.md
-└── .gitignore
+├── Loan approval predication.ipynb          # Backend (data prep, training, evaluation)
+├── Front_end_loan_approval_Untitled8.ipynb  # Frontend (Gradio UI)
+├── app.py                                   # Deployment file (backend + frontend combined)
+├── requirements.txt
+├── loan approval datasets.csv
+└── README.md
 ```
 
 ---

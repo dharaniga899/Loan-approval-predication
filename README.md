@@ -222,7 +222,7 @@ This project is deployed as a live web app using **Gradio** on **Hugging Face Sp
 ### **Dharaniga V.R**
 Aspiring AI & Machine Learning Developer passionate about building practical Machine Learning solutions that solve real-world problems.
 
-## **📸 APPLICATION PREVIEW**
+## **📸 APPLICATION PREVIEW
 
 **** <img width="1917" height="822" alt="Application preview" src="https://github.com/user-attachments/assets/357653c8-f650-403c-8a28-708210fed473" />
 
